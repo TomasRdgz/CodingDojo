@@ -1,0 +1,272 @@
+* {
+    margin: 0;
+    padding: 0px;
+}
+
+
+
+img.ft {
+    width: 1;
+}
+
+p {
+    display: inline-block;
+    text-align: center;
+}
+
+p.artpaf {
+    padding: 7px;
+    text-align: justify;
+    font-family: sans-serif;
+}
+
+#boton1 {
+    padding: 7px 0px 0px 10px;
+}
+
+html {
+    background-color: rgb(154, 153, 153);
+    margin-left: 298px;
+}
+
+body {
+    width: 970px;
+    margin: 0px;
+    background: linear-gradient(to bottom, rgb(28, 12, 16), rgb(79, 59, 67), rgb(28, 12, 16));
+}
+
+header {
+    background-color: rgb(248, 248, 248);
+    height: 60px;
+    margin-bottom: 30px;
+    width: 970px;
+}
+
+h1 {
+
+    display: inline-block;
+    margin: 15px 20px 10px 20px;
+    margin-right: 400px;
+}
+
+h2 {
+    display: inline-block;
+    margin: 15px 20px 10px 20px;
+    font-family: sans-serif;
+    color: black;
+    font-size: 22px;
+}
+
+#contenedor {
+    padding: 0px 25px 0px 25px;
+
+}
+
+#contenedorimg {
+    width: 428px;
+    height: 301px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px 4px 30px 0px;
+    border: 5px rgb(192, 192, 192)solid;
+    }
+
+
+#mujer {
+    width: 427px;
+    height: 300px;
+    display: inline-block;
+}
+
+
+main {
+    width: 457px;
+    height: 309px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 17px;
+    background: linear-gradient(to right, rgb(255, 255, 255), rgb(219, 204, 218));
+}
+
+#pri {
+    text-align: top;
+    height: 32px;
+    padding: 14px 0px 0px 10px;
+    background: linear-gradient(to bottom, rgb(177, 177, 181), rgb(177, 177, 181), rgb(140, 138, 151), rgb(177, 177, 181), rgb(177, 177, 181));
+    color: white;
+    font-family: sans-serif;
+}
+
+
+#contenedor2 {
+    padding: 0px 25px;
+}
+
+
+
+.box {
+    background: linear-gradient(to right, rgb(255, 255, 255), rgb(219, 204, 218));
+    width: 291px;
+    height: 609px;
+    display: inline-block;
+    font-family: sans-serif;
+    margin: 0px 19px 23px 0px;
+}
+
+
+.boxA {
+    background: linear-gradient(to right, rgb(255, 255, 255), rgb(219, 204, 218));
+    width: 291px;
+    height: 610px;
+    display: inline-block;
+    margin-top: 0px;
+}
+
+.divi {
+    height: 400px;
+
+}
+
+.divi2 {
+    padding: 7px;
+    height: 242px;
+    padding: 0px;
+    margin-bottom: 4px;
+}
+
+#parra1 {
+    padding: 7px 0px 0px 10px;
+    margin-bottom: 20px;
+    text-align: left;
+    padding-top: 13px;
+    font-family: sans-serif;
+}
+
+#parra2 {
+    padding: 7px 0px 0px 10px;
+    margin-bottom: 5px;
+    text-align: left;
+    font-family: sans-serif;
+}
+
+.art {
+    background: linear-gradient(to bottom, rgb(177, 177, 181), rgb(177, 177, 181), rgb(140, 138, 151), rgb(177, 177, 181));
+    height: 23px;
+    padding: 7px;
+    color: white;
+    width: 277px;
+    font-family: sans-serif;
+}
+
+
+
+.art2 {
+    background: linear-gradient(to bottom, rgb(177, 177, 181), rgb(177, 177, 181), rgb(140, 138, 151), rgb(177, 177, 181));
+    height: 22px;
+    padding: 7px;
+    color: white;
+    font-family: sans-serif;
+}
+
+.ph {
+    width: 290px;
+    display: inline-block;
+}
+
+.ph1 {
+    display: inline-block;
+    width: 40px;
+    margin-bottom: 10px;
+    padding: 0px 6px;
+}
+
+
+
+.bt {
+    margin: 17px 0px 0px 0px;
+    width: 262px;
+    padding: 0px 89px;
+    text-decoration: white;
+}
+
+#bot1 {
+    display: inline-block;
+    padding: 7px 0px;
+    display: inline-block;
+    text-decoration: solid;
+    color: white;
+    text-align: center;
+    background-color: rgb(64, 125, 97);
+    border-radius: 9px;
+    width: 85px;
+    font-family: sans-serif;
+}
+
+#bot2 {
+    display: inline-block;
+    padding: 7px 0px;
+    display: inline-block;
+    text-decoration: solid;
+    color: white;
+    text-align: center;
+    background-color: rgb(64, 125, 97);
+    border-radius: 9px;
+    width: 120px;
+    font-family: sans-serif;
+    font-weight: 5px;
+}
+
+#bot3 {
+    display: inline-block;
+    padding: 8px 0px;
+    display: inline-block;
+    text-decoration: solid;
+    color: white;
+    text-align: center;
+    background-color: rgb(64, 125, 97);
+    border-radius: 9px;
+    width: 80px;
+}
+
+.bt3 {
+    margin-top: 14px;
+    margin-left: 67px;
+
+
+}
+
+.bt1 {
+    margin: 17px 1px 0px 0px;
+    width: 172px;
+    padding: 0px 78px;
+}
+
+footer {
+    align-content: center;
+    background-color: rgb(248, 248, 248);
+    height: 60px;
+    width: 970px;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding-top: 8px;
+}
+
+#foot1 {
+    width: 970px;
+    text-align: center;
+    margin-bottom: 12px;
+
+}
+
+#foot2 {
+    width: 970px;
+    text-align: center;
+}
+
+.ft {
+    width: 17px;
+}
+
+a {
+    color: black;
+}
